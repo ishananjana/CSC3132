@@ -1,4 +1,3 @@
-
 <?php
 //get the database connection file
 require_once 'dbconf.php';
